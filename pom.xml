@@ -35,7 +35,7 @@ http://maven.apache.org/maven-v4_0_0.xsd">
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>App</mainClass>
+            <mainClass>com.javatpoint.App</mainClass>
           </manifest>
         </archive>
 </configuration>
